@@ -19,8 +19,9 @@ script de instalação automática de pacotes utilizado apenas para termux
 ➛ sh snx.sh.sh
 
 ----------------------//
+# Aurhor 
 
-autor: Syntaxx
+autor: Syntax
 
 gitHub: https://github.com/syntaxnx
 
