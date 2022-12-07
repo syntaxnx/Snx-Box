@@ -18,18 +18,10 @@ script de instalação automática de pacotes para termux
 
 ➛ sh p4ndora.sh
 
-
-
 autor: Syntaxx
-
 gitHub: https://github.com/syntaxnx
-
 email: development@syntaxx.com
-
 Script: SNX-BOX
-
-Codename: P4rad0x-px
-
 Version: 4.0.0
 
 ----------------------//
