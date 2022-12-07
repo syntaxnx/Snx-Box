@@ -21,9 +21,13 @@ script de instalação automática de pacotes utilizado apenas para termux
 ----------------------//
 
 autor: Syntaxx
+
 gitHub: https://github.com/syntaxnx
+
 email: development@syntaxx.com
-Script: SNX-BOX
+
+Script: Snx-Box
+
 Version: 4.0.0
 
 ----------------------//
